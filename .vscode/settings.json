@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ec_sign_test_vectors.h": "c",
+        "secp256r1.h": "c"
+    }
+}
